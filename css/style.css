@@ -256,3 +256,9 @@ li {
 .dis{
   color: darkblue;
 }
+@media (min-width: 700px) {
+  .brand {
+    position: absolute;
+    left: 30px;
+  }
+}
