@@ -264,6 +264,7 @@ li {
   }
 }
 .brand{
-  font-size: large;
+  font-size: larger;
+  font-weight: lighter;
   padding-left: 28px;
 }
